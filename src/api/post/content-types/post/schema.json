@@ -71,6 +71,9 @@
       "relation": "oneToOne",
       "target": "api::category.category",
       "inversedBy": "post"
+    },
+    "spotlight_article": {
+      "type": "boolean"
     }
   }
 }
